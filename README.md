@@ -7,7 +7,7 @@
 - Proven impact in **RAG pipelines, LLM integrations, OCR platforms**, and **backend performance optimization**.
 - Experience across **startup and enterprise** environments with remote-first collaboration.
 
-# 💻 Social:
+# 🌐 Social:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/smitpatelpro) 
 
 # 💻 Tech Stack:
